@@ -1,5 +1,5 @@
 <h3 align="center">Pextractor</h3>
-<p align="center">Python3 script to extract information about PEs using pefile and peutils libraries</p>
+<p align="center">Python3 script to extract information about PEs using <a href="https://github.com/erocarrera/pefile">pefile</a> library</p>
 
 # Required libraries
 ```
